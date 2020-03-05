@@ -1,15 +1,9 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+“Crossing Borders: From Slavery to Abolition, 1670-1865” was curated by the first-year writing seminar “Crossing Borders” during the fall semester of 2019. In this course, we explored geographic, linguistic, social, and racial border crossing through literature, beginning with Homer’s The Odyssey and concluding with the collaboratively-authored Refugee Tales. After reading Aphra Behn’s Oroonoko (1688), a novella about an African prince who is enslaved and transported to Suriname, we visited Quaker & Special Collections to explore books, manuscripts, and maps related to transatlantic travel, the slave trade, and abolition. We selected key items from this larger collection and worked as a class to organize and contextualize these items in the present exhibit.  
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+The exhibit is roughly chronological and explores the transatlantic slave trade and the development of slavery and abolition within and outside the United States. We have chosen a number of sub-themes to focus the exhibit, investigating, for example,  religion, education, and activism within the abolition movement. In particular, we foreground the experiences and perspectives of enslaved and formerly enslaved people and choose to examine rather than ignore difficult topics such as “the white savior complex” in abolition. The spatial organization of the exhibit is designed to emphasize this focus, drawing attention to the activities and narratives of people of color throughout the exhibit.
