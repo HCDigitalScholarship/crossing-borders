@@ -1,8 +1,8 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/crossing-borders"
+url:            "https://hcdigitalscholarship.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -17,6 +17,8 @@ author:
 markdown:       kramdown
 include:
   - _pages
+
+remote_theme: chesterhow/tale
 
 # Assets
 sass:
